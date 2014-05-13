@@ -1,0 +1,27 @@
+{
+  "name": "scrum",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "~3.6.2",
+    "gulp-coffee": "~1.4.3",
+    "gulp-plumber": "~0.6.1",
+    "gulp-connect": "~2.0.5",
+    "gulp-stylus": "~1.0.0",
+    "gulp-rename": "~1.2.0",
+    "gulp-browserify": "~0.5.0",
+    "coffeeify": "~0.6.0",
+    "stylus-components": "git://github.com/juliankrispel/stylus-components",
+    "gulp-util": "~2.2.14",
+    "gulp-if": "~1.2.0",
+    "gulp-concat": "~2.2.0",
+    "gulp-clean": "~0.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julian Krispel-Samsel",
+  "license": "BSD-2-Clause"
+}
